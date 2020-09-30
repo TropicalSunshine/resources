@@ -1,1 +1,2 @@
-- [books](https://github.com/TropicalSunshine/resources/blob/master/books.md)
+- [**Books**](https://github.com/TropicalSunshine/resources/blob/master/books.md)
+- [**Front End**](https://github.com/TropicalSunshine/resources/blob/master/front_end.md)
