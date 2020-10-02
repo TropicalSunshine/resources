@@ -13,3 +13,4 @@ ___It seems like so far these libraries cannot be code splitted and is loaded al
 - [mdn](https://developer.mozilla.org/en-US/)
 - [display: grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [display: flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [AirBnb Style Guide](https://github.com/airbnb/javascript)
