@@ -2,3 +2,4 @@
 - [**Front End**](https://github.com/TropicalSunshine/resources/blob/master/front_end.md)
 - [**Back End**](https://github.com/TropicalSunshine/resources/blob/master/back_end.md)
 - [**Technical Interview**](https://github.com/TropicalSunshine/resources/blob/master/interview.md)
+- [**Javascript**](https://github.com/TropicalSunshine/resources/blob/master/javascript.md)
