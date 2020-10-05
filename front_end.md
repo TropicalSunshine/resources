@@ -4,7 +4,6 @@ ___It seems like so far these libraries cannot be code splitted and is loaded al
 - [Emotion](https://emotion.sh/docs/introduction)
 - [Styled Components](https://styled-components.com/)
  
-
 ### UI Prototyping
 - [Figma](https://www.figma.com/)
 
@@ -16,6 +15,10 @@ ___It seems like so far these libraries cannot be code splitted and is loaded al
 
 ### Linting
 - [AirBnb Style Guide](https://github.com/airbnb/javascript)
+
+### Testing
+- [Jest](https://jestjs.io/)
+  - [React - jsdom](https://github.com/jsdom/jsdom)
 
 ### Referencing
 - [cssreference.io](https://cssreference.io/)
