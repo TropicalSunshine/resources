@@ -11,6 +11,8 @@ ___It seems like so far these libraries cannot be code splitted and is loaded al
 ### UI
 - [Coloors](https://coolors.co/) pallete creator
 - [Material Design](https://material.io/design) Google's design specification
+- [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
+ - Great for component based UI
 
 ### Linting
 - [AirBnb Style Guide](https://github.com/airbnb/javascript)
