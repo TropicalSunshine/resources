@@ -25,3 +25,7 @@ ___It seems like so far these libraries cannot be code splitted and is loaded al
 - [mdn](https://developer.mozilla.org/en-US/)
 - [display: grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [display: flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+### Reads
+- [next.js vs cra](https://blog.logrocket.com/next-js-vs-create-react-app/)
+- [ssr (server-side rendering) vs (client-side rendering) csr](https://medium.com/walmartglobaltech/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
