@@ -2,9 +2,6 @@
 - [Introduction to Algorithms Mit 6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-notes/)
 - [Advanced Algorithms Mit 6.046](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/)
 
-### Tree
-- [Leetcode pattern trees](https://medium.com/leetcode-patterns/leetcode-pattern-0-iterative-traversals-on-trees-d373568eb0ec)
-
 ### Backtracking
 - [UCSD CSE 198](https://docs.google.com/presentation/d/1zXCtojICaUYX6z-ITDGuPzGeE4tpvaTrv0WP0IqZ-H8/present?slide=id.p)
 
@@ -19,3 +16,5 @@
 ### Techniques
  - [Fast & Slow pointer to detect loops](https://hongyangyu.github.io/algorithm/2017/09/04/Fast-Pointer-and-Slow-Pointer/#:~:text=Quora%EF%BC%9A,two%20nodes%20at%20a%20time.)
  - [Sliding Window](https://www.geeksforgeeks.org/window-sliding-technique/)
+ - [Leetcode Meta](https://medium.com/leetcode-patterns/leetcode-pattern-4-meta-stuff-4ebbbef7d4c0)
+ - [Leetcode pattern trees](https://medium.com/leetcode-patterns/leetcode-pattern-0-iterative-traversals-on-trees-d373568eb0ec)
