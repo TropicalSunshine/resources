@@ -13,3 +13,5 @@
 - [System Design Primer repo by donnemartin](https://github.com/donnemartin/system-design-primer)
 
 
+### Techniques
+ - [Fast & Slow pointer to detect loops](https://hongyangyu.github.io/algorithm/2017/09/04/Fast-Pointer-and-Slow-Pointer/#:~:text=Quora%EF%BC%9A,two%20nodes%20at%20a%20time.)
