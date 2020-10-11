@@ -2,6 +2,9 @@
 - [Introduction to Algorithms Mit 6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-notes/)
 - [Advanced Algorithms Mit 6.046](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/)
 
+### Trees 
+- [Leetcode pattern trees](https://medium.com/leetcode-patterns/leetcode-pattern-0-iterative-traversals-on-trees-d373568eb0ec)
+
 ### Backtracking
 - [UCSD CSE 198](https://docs.google.com/presentation/d/1zXCtojICaUYX6z-ITDGuPzGeE4tpvaTrv0WP0IqZ-H8/present?slide=id.p)
 
