@@ -16,5 +16,6 @@
 ### Techniques
  - [Fast & Slow pointer to detect loops](https://hongyangyu.github.io/algorithm/2017/09/04/Fast-Pointer-and-Slow-Pointer/#:~:text=Quora%EF%BC%9A,two%20nodes%20at%20a%20time.)
  - [Sliding Window](https://www.geeksforgeeks.org/window-sliding-technique/)
+   - [Slide Window for Substrings](https://medium.com/leetcode-patterns/leetcode-pattern-2-sliding-windows-for-strings-e19af105316b)
  - [Leetcode Meta](https://medium.com/leetcode-patterns/leetcode-pattern-4-meta-stuff-4ebbbef7d4c0)
  - [Leetcode pattern trees](https://medium.com/leetcode-patterns/leetcode-pattern-0-iterative-traversals-on-trees-d373568eb0ec)
