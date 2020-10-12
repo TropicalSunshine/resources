@@ -12,6 +12,14 @@
 ### System Design
 - [System Design Primer repo by donnemartin](https://github.com/donnemartin/system-design-primer)
 
+### Trees/Graphs
+ - [DFS/Topological Sort](https://www.youtube.com/watch?v=AfSk24UTFS8&ab_channel=MITOpenCourseWare)
+   - InOrder
+   - PostOrder
+   - PreOrder
+   - Use Stack for iterative
+ - [BFS](youtube.com/watch?v=s-CYnVz-uh4&ab_channel=MITOpenCourseWare)
+   - use a queue
 
 ### Techniques
  - [Fast & Slow pointer to detect loops](https://hongyangyu.github.io/algorithm/2017/09/04/Fast-Pointer-and-Slow-Pointer/#:~:text=Quora%EF%BC%9A,two%20nodes%20at%20a%20time.)
