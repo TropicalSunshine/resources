@@ -14,6 +14,8 @@
 
 ### Trees/Graphs
  - [DFS/Topological Sort](https://www.youtube.com/watch?v=AfSk24UTFS8&ab_channel=MITOpenCourseWare)
+   - [Topological Sort](https://en.wikipedia.org/wiki/Topological_sorting#:~:text=In%20computer%20science%2C%20a%20topological,before%20v%20in%20the%20ordering.)
+     - Not an actual sort but rather organizing a DAG into a sequential order of events from child (no dependencies) up to root
    - InOrder
    - PostOrder
    - PreOrder
