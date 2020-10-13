@@ -1,4 +1,4 @@
-### Overview 
+### Overview of Materials Needed
 General Prep for coding interviews
 - [Introduction to Algorithms Mit 6.006](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-notes/)
 - [Advanced Algorithms Mit 6.046](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/)
