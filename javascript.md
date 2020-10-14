@@ -7,3 +7,4 @@
 
 ### Concepts
 - [Mutations and Pure Functions](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3) 
+- [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
