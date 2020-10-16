@@ -8,6 +8,7 @@ ___It seems like so far these libraries cannot be code splitted and is loaded al
  
 ### UI Prototyping
 - [Figma](https://www.figma.com/)
+  - allows of calloborative UI design and prototyping
 
 ### UI
 - [Coloors](https://coolors.co/) pallete creator
