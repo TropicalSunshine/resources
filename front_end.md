@@ -28,6 +28,18 @@ ___It seems like so far these libraries cannot be code splitted and is loaded al
 - [display: grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [display: flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+### React
+- #### Reference
+  - [Hooks](https://reactjs.org/docs/hooks-reference.html)
+  - [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
+  
+- #### Concepts
+  - [Code Splitting](https://reactjs.org/docs/hooks-rules.html)
+    - lazy loading / suspense
+    - allows for webpack to module code and will be lazy loaded by client
+  - [HOC](https://reactjs.org/docs/higher-order-components.html)
+    - essentially a wrapper components for common features/logic needed by child components
+
 ### Reads
 - [next.js vs cra](https://blog.logrocket.com/next-js-vs-create-react-app/)
 - [ssr (server-side rendering) vs (client-side rendering) csr](https://medium.com/walmartglobaltech/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
