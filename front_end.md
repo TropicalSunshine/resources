@@ -31,7 +31,7 @@ ___It seems like so far these libraries cannot be code splitted and is loaded al
 
 ### React
 - #### Conventions
- - [Organizing Project](https://reactjs.org/docs/faq-structure.html)
+  - [Organizing Project](https://reactjs.org/docs/faq-structure.html)
 - #### Reference
   - [Hooks](https://reactjs.org/docs/hooks-reference.html)
   - [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
