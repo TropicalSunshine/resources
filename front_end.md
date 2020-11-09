@@ -30,6 +30,8 @@ ___It seems like so far these libraries cannot be code splitted and is loaded al
 - [display: flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### React
+- ### Convetions
+ - [Organizing Project](https://reactjs.org/docs/faq-structure.html)
 - #### Reference
   - [Hooks](https://reactjs.org/docs/hooks-reference.html)
   - [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
