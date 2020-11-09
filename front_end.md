@@ -5,12 +5,10 @@
 ___It seems like so far these libraries cannot be code splitted and is loaded all at once using `<style/>` tags [ref](https://getstream.io/blog/styled-components-vs-css-stylesheets/)___
 - [Emotion](https://emotion.sh/docs/introduction)
 - [Styled Components](https://styled-components.com/)
- 
-### UI Prototyping
-- [Figma](https://www.figma.com/)
-  - allows of calloborative UI design and prototyping
 
 ### UI
+- [Figma](https://www.figma.com/)
+  - allows of calloborative UI design and prototyping
 - [Coloors](https://coolors.co/) pallete creator
 - [Material Design](https://material.io/design) Google's design specification
 - [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
