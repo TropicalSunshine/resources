@@ -15,6 +15,10 @@ Amazing Reference
 - [Intro Mit 6.006](https://www.youtube.com/watch?v=OQ5jsbhAv_M&t=47s&ab_channel=MITOpenCourseWare)
 - [Advanced Mit 6.046](https://www.youtube.com/watch?v=Tw1k46ywN6E&ab_channel=MITOpenCourseWare)
 
+### Trie
+- [Cracking the Coding Interview Video](https://www.youtube.com/watch?v=zIjfhVPRZCg&ab_channel=HackerRank)
+
+
 ### System Design
 - [System Design Primer repo by donnemartin](https://github.com/donnemartin/system-design-primer)
 
