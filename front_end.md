@@ -27,6 +27,9 @@ ___It seems like so far these libraries cannot be code splitted and is loaded al
 - [display: grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [display: flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+### Design Patterns
+- [Flux](https://facebook.github.io/flux/)
+
 ### React
 - #### Conventions
   - [Organizing Project](https://reactjs.org/docs/faq-structure.html)
@@ -40,6 +43,8 @@ ___It seems like so far these libraries cannot be code splitted and is loaded al
     - allows for webpack to module code and will be lazy loaded by client
   - [HOC](https://reactjs.org/docs/higher-order-components.html)
     - essentially a wrapper components for common features/logic needed by child components
+
+
 
 ### Reads
 - [next.js vs cra](https://blog.logrocket.com/next-js-vs-create-react-app/)
