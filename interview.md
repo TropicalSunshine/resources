@@ -5,9 +5,8 @@ General Prep for coding interviews
 - [Mastering the Internship Interview CSE 198 UCSD](https://sites.google.com/eng.ucsd.edu/cse-198-internship-interview/lecture-slides?authuser=0)
 
 ### Reference
-Amazing Reference
 - [donnemartin](https://github.com/donnemartin/interactive-coding-challenges)
-
+  - Amazing Reference for problem and concepts
 ### Backtracking
 - [UCSD CSE 198](https://docs.google.com/presentation/d/1zXCtojICaUYX6z-ITDGuPzGeE4tpvaTrv0WP0IqZ-H8/present?slide=id.p)
 
