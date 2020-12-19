@@ -7,6 +7,9 @@ General Prep for coding interviews
 ### Reference
 - [donnemartin](https://github.com/donnemartin/interactive-coding-challenges)
   - Amazing Reference for problem and concepts
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+  - General things you need to know 
+  - Even goes into behaviorial topics
 ### Backtracking
 - [UCSD CSE 198](https://docs.google.com/presentation/d/1zXCtojICaUYX6z-ITDGuPzGeE4tpvaTrv0WP0IqZ-H8/present?slide=id.p)
 
