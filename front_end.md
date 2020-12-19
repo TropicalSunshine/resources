@@ -31,6 +31,9 @@ ___It seems like so far these libraries cannot be code splitted and is loaded al
 - [Flux](https://facebook.github.io/flux/)
 
 ### React
+- ### Frameworks/Buildpacks
+  - [create react app](https://create-react-app.dev/)
+  - [next.js](https://nextjs.org/)
 - #### Conventions
   - [Organizing Project](https://reactjs.org/docs/faq-structure.html)
 - #### Reference
