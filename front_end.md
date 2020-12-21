@@ -6,6 +6,12 @@
   - [Emotion](https://emotion.sh/docs/introduction)
   - [Styled Components](https://styled-components.com/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
+- Cross Bowser Consistency
+  - [Normalize CSS vs. Reset CSS](https://medium.com/@elad/normalize-css-or-css-reset-9d75175c5d1e)
+  - Reset CSS
+    - [Eric Meyer](https://meyerweb.com/eric/tools/css/reset/)
+  - Normalize CSS
+    - [necolas](https://github.com/necolas/normalize.css/)
 
 ### UI
 - [Figma](https://www.figma.com/)
