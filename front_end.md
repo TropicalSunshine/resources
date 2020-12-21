@@ -38,7 +38,7 @@
 ### Design Patterns
 - [Flux](https://facebook.github.io/flux/)
 
-### React
+### [React](https://reactjs.org/docs/hello-world.html) 
 - ### Frameworks/Buildpacks
   - [create react app](https://create-react-app.dev/)
   - [next.js](https://nextjs.org/)
