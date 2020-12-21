@@ -1,10 +1,11 @@
 ### CSS
-- [BEM](https://css-tricks.com/bem-101/)
-
-### CSS IN JS
-___It seems like so far these libraries cannot be code splitted and is loaded all at once using `<style/>` tags [ref](https://getstream.io/blog/styled-components-vs-css-stylesheets/)___
-- [Emotion](https://emotion.sh/docs/introduction)
-- [Styled Components](https://styled-components.com/)
+- Conventions
+  -  [BEM](https://css-tricks.com/bem-101/)
+- CSS In JS
+  - ___It seems like so far these libraries cannot be code splitted and is loaded all at once using `<style/>` tags [ref](https://getstream.io/blog/styled-components-vs-css-stylesheets/)___
+  - [Emotion](https://emotion.sh/docs/introduction)
+  - [Styled Components](https://styled-components.com/)
+- [CSS Modules](https://github.com/css-modules/css-modules)
 
 ### UI
 - [Figma](https://www.figma.com/)
