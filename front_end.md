@@ -39,7 +39,7 @@
 - [Flux](https://facebook.github.io/flux/)
 
 ### [React](https://reactjs.org/docs/hello-world.html) 
-- ### Frameworks/Buildpacks
+- #### Frameworks/Buildpacks
   - [create react app](https://create-react-app.dev/)
   - [next.js](https://nextjs.org/)
 - #### Conventions
