@@ -1,6 +1,7 @@
 ### Network
   - [cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
   - [cors](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+  - [http headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
 ### CSS
 - Conventions
   -  [BEM](https://css-tricks.com/bem-101/)
