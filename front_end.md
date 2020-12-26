@@ -40,6 +40,7 @@
 - [mdn](https://developer.mozilla.org/en-US/)
 - [display: grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [display: flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [caniuse](https://caniuse.com/)
 
 ### Design Patterns
 - [Flux](https://facebook.github.io/flux/)
