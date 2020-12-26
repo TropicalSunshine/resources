@@ -1,5 +1,6 @@
 ### Network
   - [cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+  - [cors](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 ### CSS
 - Conventions
   -  [BEM](https://css-tricks.com/bem-101/)
@@ -32,6 +33,8 @@
   - [React - jsdom](https://github.com/jsdom/jsdom)
 
 ### Referencing
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+  - best web dev reference
 - [cssreference.io](https://cssreference.io/)
 - [mdn](https://developer.mozilla.org/en-US/)
 - [display: grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
