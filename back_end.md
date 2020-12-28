@@ -6,3 +6,6 @@
 ### Logging
 - [winston](https://www.npmjs.com/package/winston)
 - [morgan](https://www.npmjs.com/package/morgan)
+
+### http
+  - [status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
