@@ -6,6 +6,7 @@
 ### CSS
 - Conventions
   -  [BEM](https://css-tricks.com/bem-101/)
+    - simple convention for naming css classes in order to easily work with across developers
 - CSS In JS
   - ___It seems like so far these libraries cannot be code splitted and is loaded all at once using `<style/>` tags [ref](https://getstream.io/blog/styled-components-vs-css-stylesheets/)___
   - [Emotion](https://emotion.sh/docs/introduction)
