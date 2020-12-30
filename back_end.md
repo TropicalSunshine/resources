@@ -20,3 +20,9 @@
   - reads
     - [sql vs nosql](https://www.sitepoint.com/sql-vs-nosql-differences/)
     - [system design primer, sql vs nosql](https://github.com/donnemartin/system-design-primer#sql-or-nosql)
+
+### runtime enviroments
+  - [node](https://nodejs.org/en/)
+
+### common issues
+  - [null and boolean values in .env](https://github.com/motdotla/dotenv/issues/51)
