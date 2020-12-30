@@ -13,7 +13,8 @@
 ### data storage
   #### nosql
    - [mongodb](https://www.mongodb.com/2)
-    
+   - [mongo atlas](https://www.mongodb.com/cloud/atlas)
+    - database as a service
   
   
   #### reads
