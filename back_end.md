@@ -23,3 +23,8 @@
 
 ### common issues
   - [null and boolean values in .env](https://github.com/motdotla/dotenv/issues/51)
+
+
+### [graphql](https://graphql.org/)
+  - [apollo](https://www.apollographql.com/)
+    - toolkit for implementing the graphql specification
