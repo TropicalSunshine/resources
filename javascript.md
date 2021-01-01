@@ -13,3 +13,6 @@
 
 ### [TypeScript](https://www.typescriptlang.org/)
   - typed javascript
+  
+### ES6
+  - [object destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/)
