@@ -8,6 +8,7 @@
 - [Dan Abaramov Just Javascript](https://justjavascript.com/)
 - [Mutations and Pure Functions](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3) 
 - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+- [hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 
 ### [ECMA Proposals](https://github.com/tc39/proposals)
 
