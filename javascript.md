@@ -4,8 +4,10 @@
 ### Code Documentation
 - [jsdoc](https://jsdoc.app/index.html)
 
-### Concepts
-- [Dan Abaramov Just Javascript](https://justjavascript.com/)
+### Knowledge
+- introduction to Javascript
+  - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#chapter-1-what-is-javascript)
+  - [Dan Abaramov Just Javascript](https://justjavascript.com/)
 - [Mutations and Pure Functions](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3) 
 - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 - [hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
@@ -15,5 +17,5 @@
 ### [TypeScript](https://www.typescriptlang.org/)
   - typed javascript
   
-### ES6
+### Syntax
   - [object destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/)
