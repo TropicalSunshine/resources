@@ -47,6 +47,10 @@
 
 ### Design Patterns
 - [Flux](https://facebook.github.io/flux/)
+  - [Redux](https://redux.js.org/)
+    - [The Intent of Redux](https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/#the-intent-and-design-of-redux)
+    - [Redux Essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts)
+      - will teach you how to use Redux the right way using our latest recommended patterns and practices
 - [Model-View-Controller (MVC)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 
 ### [React](https://reactjs.org/docs/hello-world.html) 
