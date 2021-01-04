@@ -47,6 +47,7 @@
 
 ### Design Patterns
 - [Flux](https://facebook.github.io/flux/)
+- [Model-View-Controller (MVC)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 
 ### [React](https://reactjs.org/docs/hello-world.html) 
 - #### Frameworks/Buildpacks
