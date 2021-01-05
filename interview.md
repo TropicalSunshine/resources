@@ -14,6 +14,7 @@ General Prep for coding interviews
   - General things you need to know 
   - Even goes into behaviorial topics
 - [math symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
+- [algo monster](https://algo.monster/)
 ### Backtracking
 - [UCSD CSE 198](https://docs.google.com/presentation/d/1zXCtojICaUYX6z-ITDGuPzGeE4tpvaTrv0WP0IqZ-H8/present?slide=id.p)
 
