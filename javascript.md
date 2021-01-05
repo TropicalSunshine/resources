@@ -19,6 +19,10 @@
   
 ### Syntax
   - [object destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/)
-  
+
+### Jest
+  - [testing socket.io servers](https://medium.com/@tozwierz/testing-socket-io-with-jest-on-backend-node-js-f71f7ec7010f)
+
 ### Reads
   - [Mark Erikson](https://blog.isquaredsoftware.com/)
+  
