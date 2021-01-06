@@ -70,6 +70,8 @@
     - allows for webpack to module code and will be lazy loaded by client
   - [HOC](https://reactjs.org/docs/higher-order-components.html)
     - essentially a wrapper components for common features/logic needed by child components
+  - [Hook Flow](https://github.com/donavon/hook-flow)
+    - lifecycle of react hooks
 
 ### 3D Graphics
 - [three.js](https://threejs.org/)
