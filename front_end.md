@@ -72,6 +72,9 @@
     - essentially a wrapper components for common features/logic needed by child components
   - [Hook Flow](https://github.com/donavon/hook-flow)
     - lifecycle of react hooks
+  - [Importance of React Keys](https://www.freecodecamp.org/news/react-under-the-hood/)
+    - keys allow react a more efficient way of detecting change in components
+    
 
 ### 3D Graphics
 - [three.js](https://threejs.org/)
