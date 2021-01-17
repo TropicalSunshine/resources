@@ -22,11 +22,11 @@
     - `Function`
     - `Objects`
   - Closures
-    - `JS functions remembers variables and values outside of it's scope, during creation`
+    - JS functions remembers variables and values outside of it's scope, during creation
     - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md#closure)
     - [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
   - Hoisting
-    - `all variable declarations anywhere in the code are treated as though if they were already declared, or compiled first`
+    - all variable declarations anywhere in the code are treated as though if they were already declared, or compiled first
       - `it would be like a global header file for C++ that contains all variables ever declared in your program`
     - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md#closure)
     - [mdn](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
