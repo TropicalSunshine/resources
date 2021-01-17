@@ -1,9 +1,3 @@
-### Arithmetic in JS
-- [Floating Point Math](https://floating-point-gui.de/formats/fp/?ck_subscriber_id=1001202893)
-
-### Code Documentation
-- [jsdoc](https://jsdoc.app/index.html)
-
 ### Knowledge
 - introduction to Javascript
   - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#chapter-1-what-is-javascript)
@@ -45,14 +39,12 @@
     - error and type checking
  
 ### [ECMA Proposals](https://github.com/tc39/proposals)
-  
-### Syntax
-  - [object destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/)
 
 ### Testing 
   - [testing socket.io servers with jest](https://medium.com/@tozwierz/testing-socket-io-with-jest-on-backend-node-js-f71f7ec7010f)
 
 ### References
+  - [object destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/)
   - [ES6 syntax cheatsheet](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
 
 ### Reads
