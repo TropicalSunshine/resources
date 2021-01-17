@@ -74,7 +74,7 @@
     - lifecycle of react hooks
   - [Importance of React Keys](https://www.freecodecamp.org/news/react-under-the-hood/)
     - keys allow react a more efficient way of detecting change in components
-  - [React Rendering Behavior Mark Dev](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+  - [React Rendering Behavior Mark Erikson](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
     
 
 ### 3D Graphics
