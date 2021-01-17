@@ -21,11 +21,11 @@
     - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md#closure)
     - [mdn](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
     
-#### Advanaced topics
-    - [Arithmetic in JS](https://floating-point-gui.de/formats/fp/?ck_subscriber_id=1001202893)
-      - floating point map is used instead of conventional mathematics
-    - Event Loop
-      - [Jake Archibald:In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0&ab_channel=JSConf)
+#### Advanced topics
+   - [Arithmetic in JS](https://floating-point-gui.de/formats/fp/?ck_subscriber_id=1001202893)
+     - floating point map is used instead of conventional mathematics
+   - Event Loop
+     - [Jake Archibald:In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0&ab_channel=JSConf)
 ### Tools
   - [jsdoc](https://jsdoc.app/index.html)
     - great for documenting js code
