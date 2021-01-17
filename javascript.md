@@ -7,10 +7,20 @@
 ### Knowledge
 - introduction to Javascript
   - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#chapter-1-what-is-javascript)
-  - [Dan Abaramov Just Javascript](https://justjavascript.com/)
-- [Mutations and Pure Functions](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3) 
-#### Core topics
+  - [Dan Abaramov Just Javascript](https://justjavascript.com/) 
 
+#### Core topics
+  - Primitive Types :
+    - `null`
+      - the `typeof null` return an object due to a [bug](https://2ality.com/2013/10/typeof-null.html?ck_subscriber_id=1001202893)
+    - `undefined`
+    - `Booleans`
+    - `Numbers`
+    - `BigInts`
+    - `Strings`
+    - `Symbols`
+    - `Function`
+    - `Objects`
   - Closures
     - `JS functions remembers variables and values outside of it's scope, during creation`
     - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md#closure)
@@ -20,6 +30,7 @@
       - `it would be like a global header file for C++ that contains all variables ever declared in your program`
     - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md#closure)
     - [mdn](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+  - [Mutations and Pure Functions](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3)
     
 #### Advanced topics
    - [Arithmetic in JS](https://floating-point-gui.de/formats/fp/?ck_subscriber_id=1001202893)
