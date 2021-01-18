@@ -26,7 +26,10 @@
     - [mdn](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
   - values and reference
     - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apA.md#values-vs-references)
-  - [Mutations and Pure Functions](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3)
+  - pure functions
+    - functions that have no side effects like logging or making a network call, everything happens within the confines of that function 
+    - [Eric Elliott via Medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+ - [mutations, and pure functions](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3)
     
 #### Advanced topics
    - [Arithmetic in JS](https://floating-point-gui.de/formats/fp/?ck_subscriber_id=1001202893)
