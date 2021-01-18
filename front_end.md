@@ -63,6 +63,7 @@
   - [Prop Types](https://www.npmjs.com/package/prop-types)
   - [Hooks](https://reactjs.org/docs/hooks-reference.html)
   - [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
+  - [lifecycle methods diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
   
 - #### Concepts
   - [Code Splitting](https://reactjs.org/docs/hooks-rules.html)
