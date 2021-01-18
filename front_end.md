@@ -75,6 +75,9 @@
   - [Importance of React Keys](https://www.freecodecamp.org/news/react-under-the-hood/)
     - keys allow react a more efficient way of detecting change in components
   - [React Rendering Behavior Mark Erikson](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+- #### Advanced Concepts
+  - [Reconciliation](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/#what-is-rendering)
+    - how react calculates the differences from the virtual dom to the real dom
     
 
 ### 3D Graphics
