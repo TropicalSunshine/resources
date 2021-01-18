@@ -3,8 +3,8 @@
   - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#chapter-1-what-is-javascript)
   - [Dan Abaramov Just Javascript](https://justjavascript.com/) 
 
-#### Core topics
-  - Primitive Types :
+#### Core Topics
+  - primitive types :
     - `null`
       - the `typeof null` return an object due to a [bug](https://2ality.com/2013/10/typeof-null.html?ck_subscriber_id=1001202893)
     - `undefined`
@@ -15,11 +15,11 @@
     - `Symbols`
     - `Function`
     - `Objects`
-  - Closures
+  - closures
     - JS functions remembers variables and values outside of it's scope, during creation
     - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md#closure)
     - [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-  - Hoisting
+  - hoisting
     - all variable declarations anywhere in the code are treated as though if they were already declared, or compiled first
       - `it would be like a global header file for C++ that contains all variables ever declared in your program`
     - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md#closure)
