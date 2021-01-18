@@ -27,7 +27,8 @@
   - values and reference
     - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apA.md#values-vs-references)
   - pure functions
-    - functions that have no side effects like logging or making a network call, everything happens within the confines of that function 
+    - functions that have no side effects like logging or making a network call, everything happens within the confines of that function
+    - also "given the same input, will always return the same output" - Eric Elliot Medium [src](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
     - [Eric Elliott via Medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
  - [mutations, and pure functions](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3)
     
