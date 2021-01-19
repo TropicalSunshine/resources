@@ -7,6 +7,9 @@ General Prep for coding interviews
 - [Advanced Algorithms Mit 6.046](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/)
 - [Mastering the Internship Interview CSE 198 UCSD](https://sites.google.com/eng.ucsd.edu/cse-198-internship-interview/lecture-slides?authuser=0)
 
+### Bitwise
+- [basics of bitwise](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/)
+
 ### Reference
 - [donnemartin](https://github.com/donnemartin/interactive-coding-challenges)
   - Amazing Reference for problem and concepts
