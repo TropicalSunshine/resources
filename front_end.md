@@ -65,6 +65,21 @@
   - [rules of hooks](https://reactjs.org/docs/hooks-rules.html)
   - [lifecycle methods diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
   - [custom hooks](https://fullstackopen.com/en/part7/custom_hooks)
+- ### hooks
+  - `useEffect`
+  - `useMemo`
+    - [web dev simplified tutorial](https://blog.webdevsimplified.com/2020-05/memoization-in-react/)
+    - uses additional memory so dont use it when not necessary
+    - 1. to lower the call for slow functions
+    - 2. referencial integrity
+    
+    
+  - `useCallback`
+  - `useRef`
+  - `useState`
+  - `useContext`
+  - `useImperativeHandle`
+  - `useLayoutEffect`
   
 - #### Concepts
   - [Code Splitting](https://reactjs.org/docs/hooks-rules.html)
