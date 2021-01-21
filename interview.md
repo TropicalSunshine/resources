@@ -43,9 +43,13 @@ General Prep for coding interviews
    - Use Stack for iterative
  - [BFS](youtube.com/watch?v=s-CYnVz-uh4&ab_channel=MITOpenCourseWare)
    - use a Queue for iterative
+### Linked Lists
+ - [fast & slow pointer to detect loops](https://hongyangyu.github.io/algorithm/2017/09/04/Fast-Pointer-and-Slow-Pointer/#:~:text=Quora%EF%BC%9A,two%20nodes%20at%20a%20time.)
 
+### Strings/Objects
+  - [canonical form](https://en.wikipedia.org/wiki/Canonical_form)
+  
 ### Techniques
- - [Fast & Slow pointer to detect loops](https://hongyangyu.github.io/algorithm/2017/09/04/Fast-Pointer-and-Slow-Pointer/#:~:text=Quora%EF%BC%9A,two%20nodes%20at%20a%20time.)
  - [Sliding Window](https://www.geeksforgeeks.org/window-sliding-technique/)
    - [Slide Window for Substrings](https://medium.com/leetcode-patterns/leetcode-pattern-2-sliding-windows-for-strings-e19af105316b)
  - [Leetcode Meta](https://medium.com/leetcode-patterns/leetcode-pattern-4-meta-stuff-4ebbbef7d4c0)
