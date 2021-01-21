@@ -48,6 +48,7 @@ General Prep for coding interviews
 
 ### Strings/Objects
   - [canonical form](https://en.wikipedia.org/wiki/Canonical_form)
+    - example : [group anagrams](https://github.com/TropicalSunshine/interview-problems/blob/master/groupAnagrams.py)
   
 ### Techniques
  - [Sliding Window](https://www.geeksforgeeks.org/window-sliding-technique/)
