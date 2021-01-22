@@ -19,12 +19,11 @@ General Prep for coding interviews
 - [math symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
 - [algo monster](https://algo.monster/)
 
-### Backtracking
-- [UCSD CSE 198](https://docs.google.com/presentation/d/1zXCtojICaUYX6z-ITDGuPzGeE4tpvaTrv0WP0IqZ-H8/present?slide=id.p)
-
 ### Dynamic Programming
 - [Intro Mit 6.006](https://www.youtube.com/watch?v=OQ5jsbhAv_M&t=47s&ab_channel=MITOpenCourseWare)
 - [Advanced Mit 6.046](https://www.youtube.com/watch?v=Tw1k46ywN6E&ab_channel=MITOpenCourseWare)
+- [Errichto](https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo)
+  - competitive programmer
 
 ### Trie
 - [Cracking the Coding Interview Video](https://www.youtube.com/watch?v=zIjfhVPRZCg&ab_channel=HackerRank)
@@ -66,3 +65,6 @@ General Prep for coding interviews
    - [Slide Window for Substrings](https://medium.com/leetcode-patterns/leetcode-pattern-2-sliding-windows-for-strings-e19af105316b)
  - [Leetcode Meta](https://medium.com/leetcode-patterns/leetcode-pattern-4-meta-stuff-4ebbbef7d4c0)
  - [Leetcode pattern trees](https://medium.com/leetcode-patterns/leetcode-pattern-0-iterative-traversals-on-trees-d373568eb0ec)
+ - [backtracking](https://docs.google.com/presentation/d/1zXCtojICaUYX6z-ITDGuPzGeE4tpvaTrv0WP0IqZ-H8/present?slide=id.p)
+  - somewhat similiar to dp
+  
