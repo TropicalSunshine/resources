@@ -42,7 +42,9 @@ General Prep for coding interviews
    - PreOrder
    - Use Stack for iterative
  - [BFS](youtube.com/watch?v=s-CYnVz-uh4&ab_channel=MITOpenCourseWare)
-   - use a Queue for iterative
+   - use a queue for iterative
+ - DFS
+   - use a stack for iterative
    
 ### Graphs
   - can the problem be represented and solved as a graph?
