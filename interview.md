@@ -44,7 +44,7 @@ General Prep for coding interviews
    - use a queue for iterative
  - DFS
    - use a stack for iterative
-   
+
 ### Graphs
   - can the problem be represented and solved as a graph?
   - representations
@@ -59,7 +59,9 @@ General Prep for coding interviews
 ### Strings/Objects
   - [canonical form](https://en.wikipedia.org/wiki/Canonical_form)
     - example : [group anagrams](https://github.com/TropicalSunshine/interview-problems/blob/master/groupAnagrams.py)
-  
+### Selection
+  - [quickselect](https://en.wikipedia.org/wiki/Quickselect#:~:text=In%20computer%20science%2C%20quickselect%20is,known%20as%20Hoare's%20selection%20algorithm.)
+
 ### Techniques
  - [Sliding Window](https://www.geeksforgeeks.org/window-sliding-technique/)
    - [Slide Window for Substrings](https://medium.com/leetcode-patterns/leetcode-pattern-2-sliding-windows-for-strings-e19af105316b)
