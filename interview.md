@@ -18,6 +18,7 @@ General Prep for coding interviews
   - Even goes into behaviorial topics
 - [math symbols](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
 - [algo monster](https://algo.monster/)
+
 ### Backtracking
 - [UCSD CSE 198](https://docs.google.com/presentation/d/1zXCtojICaUYX6z-ITDGuPzGeE4tpvaTrv0WP0IqZ-H8/present?slide=id.p)
 
@@ -32,8 +33,7 @@ General Prep for coding interviews
 ### System Design
 - [System Design Primer repo by donnemartin](https://github.com/donnemartin/system-design-primer)
 
-### Trees/Graphs
- - [DAG](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
+### Trees
  - [DFS/Topological Sort](https://www.youtube.com/watch?v=AfSk24UTFS8&ab_channel=MITOpenCourseWare)
    - [Topological Sort](https://en.wikipedia.org/wiki/Topological_sorting#:~:text=In%20computer%20science%2C%20a%20topological,before%20v%20in%20the%20ordering.)
      - Not an actual sort but rather organizing a DAG into a sequential order of events from child (no dependencies) up to root
@@ -43,6 +43,15 @@ General Prep for coding interviews
    - Use Stack for iterative
  - [BFS](youtube.com/watch?v=s-CYnVz-uh4&ab_channel=MITOpenCourseWare)
    - use a Queue for iterative
+   
+### Graphs
+  - can the problem be represented and solved as a graph?
+  - representations
+    - [adjacency list](https://en.wikipedia.org/wiki/Adjacency_list)
+      - sparse graphs
+    - [adjacency matrix](https://en.wikipedia.org/wiki/Adjacency_matrix)
+      - efficient for dense graphs
+  - [DAG](https://en.wikipedia.org/wiki/Directed_acyclic_graph)
 ### Linked Lists
  - [fast & slow pointer to detect loops](https://hongyangyu.github.io/algorithm/2017/09/04/Fast-Pointer-and-Slow-Pointer/#:~:text=Quora%EF%BC%9A,two%20nodes%20at%20a%20time.)
 
