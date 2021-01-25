@@ -9,7 +9,9 @@ General Prep for coding interviews
 
 ### Bitwise
 - [basics of bitwise](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/)
-
+- Errichto competitive programmer
+  - [article](https://codeforces.com/blog/entry/73490)
+  - [video](https://www.youtube.com/watch?v=xXKL9YBWgCY&list=LL&index=2&t=17s&ab_channel=Errichto)
 ### Reference
 - [donnemartin](https://github.com/donnemartin/interactive-coding-challenges)
   - Amazing Reference for problem and concepts
