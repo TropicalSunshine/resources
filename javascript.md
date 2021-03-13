@@ -6,7 +6,7 @@
 #### Core Topics
   - primitive types :
     - `null`
-      - the `typeof null` return an object due to a [bug](https://2ality.com/2013/10/typeof-null.html?ck_subscriber_id=1001202893)
+      - the `typeof null` returns an `object` type due to a [bug](https://2ality.com/2013/10/typeof-null.html?ck_subscriber_id=1001202893)
     - `undefined`
     - `Booleans`
     - `Numbers`
