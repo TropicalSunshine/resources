@@ -2,6 +2,7 @@
 - introduction to Javascript
   - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#chapter-1-what-is-javascript)
   - [Dan Abaramov Just Javascript](https://justjavascript.com/) 
+  - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 #### Core Topics
   - primitive types :
