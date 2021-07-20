@@ -96,7 +96,7 @@
   - [Reconciliation](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/#what-is-rendering)
     - how react calculates the differences from the virtual dom to the real dom
 
-### Redux
+### [Redux](https://redux.js.org/)
   - global state management
   - [Redux essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts#introduction) 
   - [Redux vs. React Context](https://www.codehousegroup.com/insight-and-inspiration/tech-stream/using-redux-and-context-api)
