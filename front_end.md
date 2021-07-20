@@ -101,7 +101,9 @@
   - [Redux essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts#introduction) 
   - [Redux vs. React Context](https://www.codehousegroup.com/insight-and-inspiration/tech-stream/using-redux-and-context-api)
   - [Redux Slices](https://redux.js.org/tutorials/essentials/part-2-app-structure#redux-slices)
-    - a "slice" is a collection of Redux reducer logic and actions for a single feature in your app, typically defined together in a single file ( from redux website )  
+    - a "slice" is a collection of Redux reducer logic and actions for a single feature in your app, typically defined together in a single file ( from redux website )
+  - [Reducers and Immutable Updates](https://redux.js.org/tutorials/essentials/part-2-app-structure#reducers-and-immutable-updates)
+    - `You can only write "mutating" logic in Redux Toolkit's createSlice and createReducer because they use Immer inside! If you write mutating logic in reducers without Immer, it will mutate the state and cause bugs!` 
 
 ### Cool Libraries
 - 3D Graphics
