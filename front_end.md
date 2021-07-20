@@ -100,6 +100,8 @@
   - global state management
   - [Redux essentials](https://redux.js.org/tutorials/essentials/part-1-overview-concepts#introduction) 
   - [Redux vs. React Context](https://www.codehousegroup.com/insight-and-inspiration/tech-stream/using-redux-and-context-api)
+  - [Redux Slices](https://redux.js.org/tutorials/essentials/part-2-app-structure#redux-slices)
+    - a "slice" is a collection of Redux reducer logic and actions for a single feature in your app, typically defined together in a single file ( from redux website )  
 
 ### Cool Libraries
 - 3D Graphics
