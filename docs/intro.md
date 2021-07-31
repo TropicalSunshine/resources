@@ -1,7 +1,16 @@
 ---
 sidebar_position: 1
+sidebar_label : "Intro"
 ---
 
+## Hello :wave:
+
+Welcome to my list of resources that I have found useful throughout my days as a developer.
+My aim is to provide a place to document resources I have found useful **(in case I ever forget)** along with sharing these resources with others. 
+
+
+
+<!---
 # Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
@@ -33,3 +42,4 @@ npx docusaurus start
 Your site starts at `http://localhost:3000`.
 
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+-->
