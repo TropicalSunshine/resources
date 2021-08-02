@@ -3,10 +3,11 @@ sidebar_position: 1
 sidebar_label : "Intro"
 ---
 
-## Hello :wave:
+# Hello :wave:
 
 Welcome to my list of resources that I have found useful throughout my days as a developer.
 My aim is to provide a place to document resources I have found useful **(in case I ever forget)** along with sharing these resources with others. 
+
 
 
 
