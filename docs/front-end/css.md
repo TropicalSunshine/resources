@@ -4,6 +4,17 @@ sidebar_label : "CSS"
 ---
 
 # CSS
+css is the langauges used by browser to style html elements.
+
+```css
+  .foo { // selector                         declaration block
+    color: red;
+    //^^^^^ declaration
+    font-size: 12pt; 
+    //property: value
+  }
+```
+  *taken from FrontEnd Masters Sass Fundamentals by Mike North* 
 
 ## Conventions
 
