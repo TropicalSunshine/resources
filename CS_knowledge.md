@@ -1,1 +1,0 @@
-- [Missing Semester of CS Degree](https://missing.csail.mit.edu/)
