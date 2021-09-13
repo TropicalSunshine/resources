@@ -1,3 +1,10 @@
+---
+sidebar_position: 8
+sidebar_label : "Interview"
+---
+
+# Resources Interview Prep
+
 ### Overview of Materials Needed
 Language
 - Use python (simple and easy)

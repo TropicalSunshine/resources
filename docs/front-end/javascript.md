@@ -1,3 +1,12 @@
+---
+sidebar_position: 8
+sidebar_label : "Javascript"
+---
+
+# Javascript
+ 
+Javascript is a rich language that is full of new iterations. It deserves it's own section. 
+
 ### Knowledge
 - introduction to Javascript
   - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md#chapter-1-what-is-javascript)
