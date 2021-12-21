@@ -1,22 +1,19 @@
-name : disco web CD
-
-on: 
-  push: # merging is considered a push
-    branches: #run CD whenever pushes are made to master
-      - master
+name: Build and Deploy
+on: [push]
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2.3.1
-      - uses: borales/actions-yarn@v2.3.0 
-        with:
-          cmd: install
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2.3.1
 
-      - uses: borales/actions-yarn@v2.3.0 
-        with: 
-          cmd: build
-      - uses: JamesIves/github-pages-deploy-action@4.1.5
+      - name: Install and Build 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
+        run: |
+          npm ci
+          npm run build
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: build # The folder the action should deploy.
