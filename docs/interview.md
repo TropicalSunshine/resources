@@ -29,7 +29,7 @@ General Prep for coding interviews
 - [algo monster](https://algo.monster/)
 
 ### Dynamic Programming
-- [Intro Mit 6.006](https://www.youtube.com/watch?v=OQ5jsbhAv_M&t=47s&ab_channel=MITOpenCourseWare)
+- [Intro Mit 6.006](https://www.youtube.com/watch?v=OQ5jsbhAv_M&ab_channel=MITOpenCourseWare)
 - [Advanced Mit 6.046](https://www.youtube.com/watch?v=Tw1k46ywN6E&ab_channel=MITOpenCourseWare)
 - [Errichto](https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo)
   - competitive programmer
