@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label : "Intro"
+sidebar_label : "Server Secrutiy"
 ---
 
 ### Security
