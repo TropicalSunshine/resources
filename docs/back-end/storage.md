@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-sidebar_label : "Intro"
+sidebar_label : "Storage"
 ---
 
 ### data storage
