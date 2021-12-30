@@ -5,7 +5,13 @@ sidebar_label : "Javascript"
 
 # Javascript
  
-Javascript is a rich language that is full of new iterations. It deserves it's own section. 
+Javascript is a rich language that is continous evolving throught the different "ES*" version that is introduces every few years. It deserves it's own section.
+The language which was once 
+
+### History
+- [How Web Apps Work: Javascript and the DOM](https://github.com/TropicalSunshine/resources.git)
+read the section titled "Language Evolution"
+
 
 ### Knowledge
 - introduction to Javascript
@@ -14,33 +20,38 @@ Javascript is a rich language that is full of new iterations. It deserves it's o
   - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 #### Core Topics
-  - primitive types :
-    - `null`
-      - the `typeof null` returns an `object` type due to a [bug](https://2ality.com/2013/10/typeof-null.html?ck_subscriber_id=1001202893)
-    - `undefined`
-    - `Booleans`
-    - `Numbers`
-    - `BigInts`
-    - `Strings`
-    - `Symbols`
-    - `Function`
-    - `Objects`
-  - closures
-    - JS functions remembers variables and values outside of it's scope, during creation
-    - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md#closure)
-    - [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-  - hoisting
-    - all variable declarations anywhere in the code are treated as though if they were already declared, or compiled first
-      - `it would be like a global header file for C++ that contains all variables ever declared in your program`
-    - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md#closure)
-    - [mdn](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
-  - values and reference
-    - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apA.md#values-vs-references)
-  - pure functions
-    - functions that have no side effects like logging or making a network call, everything happens within the confines of that function
-    - also "given the same input, will always return the same output" - Eric Elliot Medium [src](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
-    - [Eric Elliott via Medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+
+#### primitive types :
+ - `null`
+  - the `typeof null` returns an `object` type due to a [bug](https://2ality.com/2013/10/typeof-null.html?ck_subscriber_id=1001202893)
+ - `undefined`
+ - `Booleans`
+ - `Numbers`
+ - `BigInts`
+ - `Strings`
+ - `Symbols`
+ - `Function`
+ - `Objects`
+ 
+#### closures
+ - JS functions remembers variables and values outside of it's scope, during creation
+ - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md#closure)
+ - [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+#### hoisting
+ - all variable declarations anywhere in the code are treated as though if they were already declared, or compiled first
+   - `it would be like a global header file for C++ that contains all variables ever declared in your program`
+ - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch3.md#closure)
+ - [mdn](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+#### values & reference
+ - [Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/apA.md#values-vs-references)
+#### pure functions
+ - functions that have no side effects like logging or making a network call, everything happens within the confines of that function
+ - also "given the same input, will always return the same output" - Eric Elliot Medium [src](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
+   - [Eric Elliott via Medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
  - [mutations, and pure functions](https://blog.bitsrc.io/understanding-javascript-mutation-and-pure-functions-7231cc2180d3)
+
+#### Iterators & Generators
+ - [MDN: Iterators & Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
     
 #### Advanced topics
    - [Arithmetic in JS](https://floating-point-gui.de/formats/fp/?ck_subscriber_id=1001202893)
