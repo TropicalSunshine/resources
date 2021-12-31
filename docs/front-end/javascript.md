@@ -22,10 +22,10 @@ read the section titled "Language Evolution"
 
 #### primitive types :
  - `null`
-  - the `typeof null` returns an `object` type due to a [bug](https://2ality.com/2013/10/typeof-null.html?ck_subscriber_id=1001202893)
-  - for intentional unknown values
+   - the `typeof null` returns an `object` type due to a [bug](https://2ality.com/2013/10/typeof-null.html?ck_subscriber_id=1001202893)
+   - for intentional unknown values
  - `undefined`
-  - for unintentional unknown values
+   - for unintentional unknown values
  - `Booleans`
  - `Numbers`
  - `BigInts`
