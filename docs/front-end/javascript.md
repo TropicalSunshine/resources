@@ -5,8 +5,7 @@ sidebar_label : "Javascript"
 
 # Javascript
  
-Javascript is a rich language that is continous evolving throught the different "ES*" version that is introduces every few years. It deserves it's own section.
-The language which was once 
+Javascript is a rich language that is continously evolving iterating with each "ES" (ECMAScript) version that is introduced every few years. It deserves it's own section.
 
 ### History
 - [How Web Apps Work: Javascript and the DOM](https://github.com/TropicalSunshine/resources.git)
