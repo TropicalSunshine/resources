@@ -23,7 +23,9 @@ read the section titled "Language Evolution"
 #### primitive types :
  - `null`
   - the `typeof null` returns an `object` type due to a [bug](https://2ality.com/2013/10/typeof-null.html?ck_subscriber_id=1001202893)
+  - for intentional unknown values
  - `undefined`
+  - for unintentional unknown values
  - `Booleans`
  - `Numbers`
  - `BigInts`
@@ -31,6 +33,7 @@ read the section titled "Language Evolution"
  - `Symbols`
  - `Function`
  - `Objects`
+
  
 #### closures
  - JS functions remembers variables and values outside of it's scope, during creation
