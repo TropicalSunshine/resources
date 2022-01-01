@@ -5,7 +5,7 @@ sidebar_label : "Javascript"
 
 # Javascript
  
-Javascript is a rich language that is continously evolving iterating with each "ES" (ECMAScript) version that is introduced every few years. It deserves it's own section.
+Javascript is a rich language that is continously evolving iterating with each "ES" (ECMAScript) version that is introduced every few years. It deserves it's own section. ES versions are determined by a collective group of people, proposals to the ES language are submitted [here](https://github.com/tc39/proposals).
 
 ### History
 - [How Web Apps Work: Javascript and the DOM](https://github.com/TropicalSunshine/resources.git)
@@ -18,7 +18,7 @@ read the section titled "Language Evolution"
   - [Dan Abaramov Just Javascript](https://justjavascript.com/) 
   - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-#### Core Topics
+### Core Topics
 
 #### primitive types :
  - `null`
@@ -55,11 +55,14 @@ read the section titled "Language Evolution"
 #### Iterators & Generators
  - [MDN: Iterators & Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
     
-#### Advanced topics
-   - [Arithmetic in JS](https://floating-point-gui.de/formats/fp/?ck_subscriber_id=1001202893)
+### Advanced topics
+ 
+ #### Arithmetic
+     - [Arithmetic in JS](https://floating-point-gui.de/formats/fp/?ck_subscriber_id=1001202893)
      - floating point map is used instead of conventional mathematics
-   - Event Loop
-     - [Jake Archibald:In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0&ab_channel=JSConf)
+ 
+ #### Event Loop
+   - [Jake Archibald:In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0&ab_channel=JSConf)
 ### Tools
   - [jsdoc](https://jsdoc.app/index.html)
     - great for documenting js code
@@ -67,7 +70,6 @@ read the section titled "Language Evolution"
     - typed javascript
     - error and type checking
  
-### [ECMA Proposals](https://github.com/tc39/proposals)
 
 ### Testing 
   - [testing socket.io servers with jest](https://medium.com/@tozwierz/testing-socket-io-with-jest-on-backend-node-js-f71f7ec7010f)
