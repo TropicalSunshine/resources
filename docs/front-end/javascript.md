@@ -58,8 +58,8 @@ read the section titled "Language Evolution"
 ### Advanced topics
  
  #### Arithmetic
-     - [Arithmetic in JS](https://floating-point-gui.de/formats/fp/?ck_subscriber_id=1001202893)
-     - floating point map is used instead of conventional mathematics
+   - [Arithmetic in JS](https://floating-point-gui.de/formats/fp/?ck_subscriber_id=1001202893)
+   - floating point map is used instead of conventional mathematics
  
  #### Event Loop
    - [Jake Archibald:In The Loop - JSConf.Asia](https://www.youtube.com/watch?v=cCOL7MC4Pl0&ab_channel=JSConf)
