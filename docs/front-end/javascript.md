@@ -29,8 +29,8 @@ read the section titled "Language Evolution"
  - `Booleans`
  - `Numbers`
     - [`NaN` (Not a Number)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
-     -  interesting value for representing non numbers
-     -  `NaN === NaN //false`
+      -  interesting value for representing non numbers
+      -  `NaN === NaN //false`
  - `BigInts`
  - `Strings`
  - `Symbols`
