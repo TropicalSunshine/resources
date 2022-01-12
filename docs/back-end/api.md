@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label : "Graphql"
+sidebar_label : "Writing API's"
 ---
 
 ### [graphql](https://graphql.org/)
