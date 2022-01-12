@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-sidebar_label : "Intro"
+sidebar_label : "Graphql"
 ---
 
 ### [graphql](https://graphql.org/)
