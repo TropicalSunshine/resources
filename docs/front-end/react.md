@@ -34,7 +34,13 @@ sidebar_label : "React"
 
 ## Testing
 
-- [Jest](https://github.com/jsdom/jsdom)
+The preferred method of testing react components has is to use [Jest](https://github.com/jsdom/jsdom) + [React Testing Lib](https://testing-library.com/docs/react-testing-library/intro/)
+
+Testing react component practices
+| do | don't |
+|----|-------|
+|test from a user's perspective e.g. clicking this button should cause this to happen |don't test implmentation details e.g. did my state change from A -> B|
+|test components that are important, and will save time if tested correctly |trying to achive 100% test coverage, unrealistic and time consuming|
 
 
 ## Reference
