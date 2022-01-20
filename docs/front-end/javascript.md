@@ -27,6 +27,7 @@ read the section titled "Language Evolution"
  - `undefined`
    - for unintentional unknown values
  - `Booleans`
+   - [.filter(Boolean) trick](https://michaeluloth.com/filter-boolean)
  - `Numbers`
     - [`NaN` (Not a Number)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
       -  interesting value for representing non numbers
