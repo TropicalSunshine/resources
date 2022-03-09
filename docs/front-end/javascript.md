@@ -26,6 +26,7 @@ read the section titled "Language Evolution"
    - for intentional unknown values
  - `undefined`
    - for unintentional unknown values
+   - [undefined vs. null]( https://www.geeksforgeeks.org/undefined-vs-null-in-javascript/#:~:text=Definition%3A,not%20exist%20in%20the%20compiler.)
  - `Booleans`
    - [.filter(Boolean) trick](https://michaeluloth.com/filter-boolean)
  - `Numbers`
