@@ -22,7 +22,8 @@ sidebar_label : "React"
     
     
 - `useCallback`
-    - [web dev simplified tutorial](https://www.youtube.com/watch?v=_AyFP5s69N4)   
+    - [web dev simplified tutorial](https://www.youtube.com/watch?v=_AyFP5s69N4)
+    - [when to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)   
 - `useRef`
 - `useState`
 - `useContext`
