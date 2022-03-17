@@ -74,7 +74,9 @@ read the section titled "Language Evolution"
   - [TypeScript](https://www.typescriptlang.org/)
     - typed javascript
     - error and type checking
- 
+## Linting
+- [AirBnb Style Guide](https://github.com/airbnb/javascript) <-- personal preference
+- [Google Style Guide](https://google.github.io/styleguide/jsguide.html#naming)
 
 ### Testing 
   - [testing socket.io servers with jest](https://medium.com/@tozwierz/testing-socket-io-with-jest-on-backend-node-js-f71f7ec7010f)
