@@ -3,8 +3,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title:'Resources',
+  tagline: 'A collection of cool links and resources to building software that is mostly web development',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/resources/',
   onBrokenLinks: 'ignore',
