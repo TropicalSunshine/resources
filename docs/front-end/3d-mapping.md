@@ -5,5 +5,5 @@ sidebar_label : "3D Mapping"
 
 ### Prequisite
 
-[WGS](https://en.wikipedia.org/wiki/World_Geodetic_System)
-[Quaternions](https://en.wikipedia.org/wiki/Quaternion)
+- [WGS](https://en.wikipedia.org/wiki/World_Geodetic_System)
+- [Quaternions](https://en.wikipedia.org/wiki/Quaternion)
