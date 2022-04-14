@@ -84,6 +84,7 @@ read the section titled "Language Evolution"
 ### References
   - [object destructuring](https://hacks.mozilla.org/2015/05/es6-in-depth-destructuring/)
   - [ES6 syntax cheatsheet](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
+  - [Javascript/React Patterns](https://www.patterns.dev/)
 
 ### Reads
   - [Mark Erikson](https://blog.isquaredsoftware.com/)
