@@ -36,6 +36,9 @@ sidebar_label : "React"
 ## Testing
 
 - [Jest](https://github.com/jsdom/jsdom)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+- [React Testing Library User Event](https://testing-library.com/docs/ecosystem-user-event/)
+- [Organizing Tests in Jest](https://medium.com/@JeffLombardJr/organizing-tests-in-jest-17fc431ff850)
 
 
 ## Reference
