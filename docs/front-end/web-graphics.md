@@ -2,7 +2,7 @@
 sidebar_position: 9
 sidebar_label : "Web Graphics"
 ---
-#Web Graphics
+# Web Graphics
 web graphics specifically but most of the knowledge also applies to general graphics
 
 ### Introduction
