@@ -28,3 +28,4 @@ global state management
 - [Redux vs. React Context](https://www.codehousegroup.com/insight-and-inspiration/tech-stream/using-redux-and-context-api)   
 
 - [The Intent of Redux](https://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/#the-intent-and-design-of-redux)
+- [Avoid using es6 Map + Set](https://github.com/reduxjs/redux/issues/1499)
