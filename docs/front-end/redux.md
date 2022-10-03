@@ -19,6 +19,7 @@ global state management
     - "You can only write "mutating" logic in Redux Toolkit's createSlice and createReducer because they use Immer inside! If you write mutating logic in reducers without Immer, it will mutate the state and cause bugs!"
 
     - "components can't talk to the Redux store directly, because we're not allowed to import it into component files"
+- [Thunks](https://redux.js.org/usage/writing-logic-thunks) 
 
 ## Design Pattern
 - [Flux](https://facebook.github.io/flux/)
