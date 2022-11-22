@@ -19,3 +19,7 @@ It was built in 10 days so you can imagine there are bugs (well known [typeof nu
 NPM is an important package directory used to manage dependencies in most modern web apps
 - [Intro to NPM](https://nodejs.dev/learn/an-introduction-to-the-npm-package-manager)
 - [Intro to package.json](https://nodesource.com/blog/the-basics-of-package-json)
+
+
+### FE Development Blogs
+- [Chrome Developers](https://developer.chrome.com/blog/)
