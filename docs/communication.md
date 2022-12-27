@@ -12,3 +12,6 @@ sidebar_label : "Communication"
 
 ### Leadership
 - [Bottleneck of scaleups](https://martinfowler.com/articles/bottlenecks-of-scaleups/)
+
+### Stories
+- [The Emperor has no clothes](https://www.bookbrowse.com/expressions/detail/index.cfm/expression_number/605/the-emperor-has-no-clothes)
