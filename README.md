@@ -31,12 +31,3 @@ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
-
-
-
-- [**Books**](https://github.com/TropicalSunshine/resources/blob/master/books.md)
-- [**Front End**](https://github.com/TropicalSunshine/resources/blob/master/front_end.md)
-- [**Back End**](https://github.com/TropicalSunshine/resources/blob/master/back_end.md)
-- [**Technical Interview**](https://github.com/TropicalSunshine/resources/blob/master/interview.md)
-- [**Javascript**](https://github.com/TropicalSunshine/resources/blob/master/javascript.md)
-- [**Blogs**](https://github.com/TropicalSunshine/resources/blob/master/blogs.md)
