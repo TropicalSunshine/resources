@@ -11,3 +11,5 @@ This is a opininated list of tools that all developers should understand how to 
 
 ### Shell
 - [iterm](https://iterm2.com/)
+- zsh
+  - [Mastering Zsh](https://github.com/rothgar/mastering-zsh)
