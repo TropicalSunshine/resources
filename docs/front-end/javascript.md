@@ -18,6 +18,8 @@ read the section titled "Language Evolution"
   - [Dan Abaramov Just Javascript](https://justjavascript.com/) 
   - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
+- great series on javascript - [You dont know JS](https://github.com/getify/You-Dont-Know-JS)
+
 ### Core Topics
 
 #### primitive types :
